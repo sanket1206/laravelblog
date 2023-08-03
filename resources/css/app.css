@@ -1,0 +1,17 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+[x-cloak] {
+    display: none;
+}
+
+.background-image
+{
+    background-image:url('https://tse2.mm.bing.net/th?id=OIP.Wvzk0hBjCOrIVLJrnOpNEgHaE7&pid=Api&P=0&h=180');
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    height: 600px;
+}
